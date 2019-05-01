@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">POP3app</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="ok_welcome">+OK Welcome</string>
+    <string name="list_message">STAT MESSAGE</string>
+    <string name="first_e_mail">First E-mail</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="all_messages">All messages</string>
+    <string name="second_e_mail">Second E-mail</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="emailtitle">TextView</string>
+    <string name="from">TextView</string>
+    <string name="to">TextView</string>
+</resources>
